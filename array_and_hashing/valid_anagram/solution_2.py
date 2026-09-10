@@ -1,4 +1,4 @@
-# solution 1 (python)
+# solution 2 (python)
 # problem ref: https://neetcode.io/problems/is-anagram/question?list=neetcode250
 
 # Example:
