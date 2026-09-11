@@ -23,5 +23,6 @@ if __name__ == "__main__":
     a = s.getConcatenation(nums=[1, 4, 1, 2])
     b = s.getConcatenation(nums=[22, 21, 20, 1])
 
-    print(a)
-    print(b)
+    print(a, b)
+
+# time complexity: O(1)

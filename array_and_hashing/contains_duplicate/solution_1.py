@@ -24,5 +24,6 @@ if __name__ == "__main__":
     a = s.hasDuplicate(nums=[1, 2, 3, 3])
     b = s.hasDuplicate(nums=[1, 2, 3, 4])
 
-    print(a)
-    print(b)
+    print(a, b)
+
+# time complexity: O(1)

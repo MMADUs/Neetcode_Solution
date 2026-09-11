@@ -32,4 +32,4 @@ if __name__ == "__main__":
 
     print(a, b, c)
 
-# time complexity: o(n . log(n)) if sort is merge sort
+# time complexity: O(N . log(N)) if sort is merge sort

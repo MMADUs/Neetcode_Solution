@@ -33,4 +33,4 @@ if __name__ == "__main__":
 
     print(a, b, c)
 
-# time complexity: o(n^2)
+# time complexity: O(N^2)
